@@ -115,7 +115,7 @@ Once running, try these commands:
 ## Project Structure
 
 ```
-Context Aware Robot New/
+Context Aware Robot/
 ├── main.py                         # Entry point
 ├── requirements.txt                # Python dependencies
 ├── .env.example                    # Configuration template
